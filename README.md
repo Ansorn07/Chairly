@@ -8,3 +8,9 @@
 - Interactive chair color selection
 - Description and specification toggle
 - Responsive design
+
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
